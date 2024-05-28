@@ -73,7 +73,6 @@ We selected different models, to finally chose the one that that improved the mo
 * Decision Tree regression.
 * KNN regression.
 * XGBoost Regression.
-
-<img width="629" alt="Screenshot 2024-05-23 at 15 51 40" src="https://github.com/ManelAitAmer/king_houses/assets/160795377/3b7dff0e-8087-4603-a299-ca4317738176">
+<img width="629" alt="Screenshot 2024-05-23 at 15 51 40" src="https://github.com/ManelAitAmer/king_houses/assets/160795377/0d15e7cb-f112-466d-a419-293096dba723">
 
 
