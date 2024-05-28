@@ -8,8 +8,11 @@ Our mission is to delve into a dataset of house sale prices for King County, inc
 ## Our Data: 
 
 features 21 different columns, providing a comprehensive overview of the real estate market:
+
 ***id:***  A unique identifier for a house.
+
 ***date:*** The date on which the house was sold.
+
 ***price:*** The sale price of the house (prediction target).
 ***bedrooms:*** Number of bedrooms in the house.
 ***bathrooms:*** Number of bathrooms in the house, per bedroom.
