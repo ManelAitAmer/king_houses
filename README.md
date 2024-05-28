@@ -53,4 +53,27 @@ features 21 different columns, providing a comprehensive overview of the real es
 
 ***TARGET --> Price:*** Our primary focus is to understand which features most significantly impact the house price. Additionally, we aim to explore properties valued at $650K and above for more detailed insights.
 
+## Data Preprocessing :card_index_dividers: :
+
+Here we will split our data in X and y. 
+
+* In X we have all the columns except the target column (price) , and y has only the target column.
+* The model we chosed is 70% - 30%.
+* 100% of our data: 21613.
+* 70% for training data: 15129.
+* 30% for test data: 6484.
+  
+We selected different models, to finally chose the one that that improved the model better and that has best result .
+
+***So the models we used are:***
+
+* LinearRegression.
+* Ridge regression.
+* Lasso regression.
+* Decision Tree regression.
+* KNN regression.
+* XGBoost Regression.
+
+
+
 
