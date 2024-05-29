@@ -77,3 +77,4 @@ We selected different models, to finally chose the one that that improved the mo
 
 @@The model we are chosing is the Decision Tree regression.@@
 
+<img width="885" alt="Screenshot 2024-05-23 at 16 14 59" src="https://github.com/ManelAitAmer/king_houses/assets/160795377/733aed94-9131-4c17-b1f8-a65997956fc7">
