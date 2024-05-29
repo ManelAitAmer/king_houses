@@ -75,5 +75,5 @@ We selected different models, to finally chose the one that that improved the mo
 * XGBoost Regression.
 <img width="629" alt="Screenshot 2024-05-23 at 15 51 40" src="https://github.com/ManelAitAmer/king_houses/assets/160795377/0d15e7cb-f112-466d-a419-293096dba723">
 
-<code style="color : yellowgreen">The model we are chosing is the Decision Tree regression.</code> 
+@@The model we are chosing is the Decision Tree regression.@@
 
